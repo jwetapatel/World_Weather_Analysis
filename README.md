@@ -1,6 +1,7 @@
 # World_Weather_Analysis
 
-#Overview of Project
+# Overview of Project
+
 The purpose of this challenge was to improve our app so that it contains weather descriptions along with our weather data. Customers will be able to use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. Lastly, we created both a travel itinerary and travel map as well as a marker layer map.
 
 - Retrieve Weather Data
